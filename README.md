@@ -1,12 +1,19 @@
 ### Hi there!👋
 
-### Back-end Engineer
+### Contact
+- [Linkedin](https://www.linkedin.com/in/hankim0102/)
 
 ### Tech Stack
 
 - Java, Javascript
 - SpringFramework, JPA/Hibernate
 - MySQL, Redis, AWS, Linux, Git
+
+### Education
+
+- [TDD, 클린 코드 with Java 13기](https://edu.nextstep.camp/c/8fWRxNWU/)
+
+---
 
 <!--
 **102092/102092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
