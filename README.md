@@ -5,7 +5,7 @@
 
 ### Tech Stack
 
-- Java, Javascript
+- Java, Javascript, Jsp
 - SpringFramework, JPA/Hibernate
 - MySQL, Redis, AWS, Linux, Git
 
