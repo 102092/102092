@@ -5,9 +5,10 @@
 
 ### Tech Stack
 
-- Java, Javascript, Jsp
+- Java, Python, Javascript, Jsp
 - SpringFramework, JPA/Hibernate
-- MySQL, Redis, AWS, Linux, Git
+- MySQL, Postgresql, Redis,
+- AWS, Linux, Git
 
 ### Education
 
